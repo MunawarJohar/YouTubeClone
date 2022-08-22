@@ -1,0 +1,28 @@
+@media(max-width:900px) {
+    .menu {
+        display: none;
+    }
+    .SideBar {
+        display: none;
+    }
+    .container .toggle_container {
+        padding-left: 5%;
+        padding-right: 8%;
+    }
+    .right img {
+        display: none;
+    }
+    .right .logo {
+        display: block;
+        width: 30px;
+    }
+    .center .search_Box input {
+        width: 100px;
+    }
+    .center .m_icon {
+        display: none;
+    }
+    .left .icon {
+        width: 90px;
+    }
+}
